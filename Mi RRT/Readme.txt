@@ -1,0 +1,1 @@
+This program tries to find the best path to fit a long sting (holded by ASEA) in the upper rack. See the picture for more information
